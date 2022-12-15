@@ -1,9 +1,8 @@
 import React from 'react'
+import HomePage from './pages/homePage'
 
 const App = () => {
-  return (
-    <div>This is cred</div>
-  )
+  return <HomePage />
 }
 
 export default App
